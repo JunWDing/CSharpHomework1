@@ -1,0 +1,11 @@
+D:\Csharp\HomeWork4\HomeWork4_2\bin\Debug\netcoreapp3.1\HomeWork4_2.exe
+D:\Csharp\HomeWork4\HomeWork4_2\bin\Debug\netcoreapp3.1\HomeWork4_2.deps.json
+D:\Csharp\HomeWork4\HomeWork4_2\bin\Debug\netcoreapp3.1\HomeWork4_2.runtimeconfig.json
+D:\Csharp\HomeWork4\HomeWork4_2\bin\Debug\netcoreapp3.1\HomeWork4_2.runtimeconfig.dev.json
+D:\Csharp\HomeWork4\HomeWork4_2\bin\Debug\netcoreapp3.1\HomeWork4_2.dll
+D:\Csharp\HomeWork4\HomeWork4_2\bin\Debug\netcoreapp3.1\HomeWork4_2.pdb
+D:\Csharp\HomeWork4\HomeWork4_2\obj\Debug\netcoreapp3.1\HomeWork4_2.csprojAssemblyReference.cache
+D:\Csharp\HomeWork4\HomeWork4_2\obj\Debug\netcoreapp3.1\HomeWork4_2.AssemblyInfoInputs.cache
+D:\Csharp\HomeWork4\HomeWork4_2\obj\Debug\netcoreapp3.1\HomeWork4_2.AssemblyInfo.cs
+D:\Csharp\HomeWork4\HomeWork4_2\obj\Debug\netcoreapp3.1\HomeWork4_2.dll
+D:\Csharp\HomeWork4\HomeWork4_2\obj\Debug\netcoreapp3.1\HomeWork4_2.pdb
