@@ -1,0 +1,9 @@
+D:\Csharp\HomeWork7\HomeWork7\bin\Debug\HomeWork7.exe.config
+D:\Csharp\HomeWork7\HomeWork7\bin\Debug\HomeWork7.exe
+D:\Csharp\HomeWork7\HomeWork7\bin\Debug\HomeWork7.pdb
+D:\Csharp\HomeWork7\HomeWork7\obj\Debug\HomeWork7.csprojAssemblyReference.cache
+D:\Csharp\HomeWork7\HomeWork7\obj\Debug\HomeWork7.Form1.resources
+D:\Csharp\HomeWork7\HomeWork7\obj\Debug\HomeWork7.Properties.Resources.resources
+D:\Csharp\HomeWork7\HomeWork7\obj\Debug\HomeWork7.csproj.GenerateResource.cache
+D:\Csharp\HomeWork7\HomeWork7\obj\Debug\HomeWork7.exe
+D:\Csharp\HomeWork7\HomeWork7\obj\Debug\HomeWork7.pdb
