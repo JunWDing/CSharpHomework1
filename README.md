@@ -1,0 +1,2 @@
+# CSharpHomework1
+WindowsFormsApp.sln与WindowsFormsApp1文件夹以及ConsoleApp2文件夹同属于第一次作业
